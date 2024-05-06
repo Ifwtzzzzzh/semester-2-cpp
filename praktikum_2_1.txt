@@ -1,0 +1,8 @@
+RS = 1/n . sigma|mi-x|Fi
+S = Vvar
+V = 1/m . sigma(mi-X)2 . Fi
+Kv = S/X * 100
+Sk = (X-Mo / S)
+   = 3 . (X-Md / S)
+alpha 4 = M4/S4
+M4 - 1/n . sigma(mi-X)4.Fi / S

@@ -1,0 +1,22 @@
+Rumus Mean
+X = Sigma mi . fi / Sigma fi
+X = Xo + C . U
+U = Sigma Ui . fi / Sigma fi
+mi = (batas bawah + batas atas) / 2
+
+Rumus Median
+Me = tb + i (1/2-fk / fm) . C
+
+Rumus Modus
+Mo = tb + (d1 / d1+d2) . C
+d1 = fi - kelas sebelumnya
+d2 = kelas modus - kelas setelahnya
+
+Rumus Quartil
+Qi = tb + (i/4n-fk / fqi) . C
+
+Rumus Desil
+Di = tb + (i/10n-fk / fdi) . C
+
+Rumus Persentil
+Pi = tb + (i/100n-fk / fpi) . C
