@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-struct Course {
+struct Courses {
   string courseCode;
   string courseName;
 };
@@ -12,7 +12,7 @@ struct Students {
   int score;
   int sks;
   int totalStudy;
-  Course courses[3];
+  Courses courses[3];
 };
 
 int main() {
