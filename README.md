@@ -1,6 +1,6 @@
 # 🧮 Semester 2 - C++
 
-Level Up Your Coding Skills this Semester 2 at ITPLN! **Ready to dive deeper into the world of technology?** ITPLN's Semester 2  curriculum offers two exciting courses to empower you: Algorithms and Programming!
+Level Up Your Coding Skills this Semester 2 at ITPLN! **Ready to dive deeper into the world of technology?** ITPLN's Semester 2 curriculum offers two exciting courses to empower you: Algorithms and Programming!
 
 # Algorithms 👨‍🔬
 
